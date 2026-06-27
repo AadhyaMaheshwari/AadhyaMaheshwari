@@ -9,7 +9,6 @@ I enjoy building intelligent systems that combine **AI, Machine Learning, Automa
 ### 🎓 Merit Scholar at TIET
 ### 🤖 Exploring AI, Agentic Systems & Machine Learning
 ### 🚀 Interested in Product Development, AI Engineering & Research
-### 🤝🏻 Open to collaborations and innovative projects
 
 ---
 
